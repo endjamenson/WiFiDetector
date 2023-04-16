@@ -1,6 +1,5 @@
 # WiFiDetector
-If you would like to buy me a coffee, here is an ETH wallet. 
-0x1ce14a098ba2eeb3886894248fdb9a0de48283d8
+
 
 The case can be printed by any 3d Printer, and the STL file is included.  I would recommend at least a 30 percent infill.  Slide it all together after it is finished and use glue if you fancy. STL file is the “WiFi Detector Model.STL” 
 
@@ -62,5 +61,9 @@ Once you are in the directory with the files to install, pass the commad
 
 sudo python3 installer.py
 
-Once this has been done, the device will be in the desired state, as long as no monitor is installed, and you are not remoted into the device.  It will scan for any new MAC addresses and alarm whenever they are found, and turn on Pin 5 of the raspberry pi. 
+Once this has been done, the device will be in the desired state, as long as no monitor is installed, and you are not remoted into the device.  It will scan for any new MAC addresses and alarm whenever they are found, and turn on Pin 5 of the raspberry pi. Hook up a relay to said pin if you want, and then a relay can actuate any device you would want. 
+
+
+If you would like to buy me a coffee, here is an ETH wallet. 
+0x1ce14a098ba2eeb3886894248fdb9a0de48283d8
 
