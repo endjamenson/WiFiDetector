@@ -8,18 +8,31 @@ For the project, I used a Raspberry 4 Model B, which should be readily available
 	
 	TL:DR; parts list-
 1x - Raspberry Pi Model 4 Model B-
+
 •	https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X?th=1
+
 1x – Power Bank 30000mAh Battery Pack
+
 •	https://www.amazon.com/gp/product/B09NKVCJ15/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1
+
 2x - Directional Wireless Antenna (1x if you just want to see something coming at you)
+
 •	https://www.amazon.com/gp/product/B07L56S88C/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1x
+
 1x – Relay for controlling a WiFi Jammer, connected to output 5 of the device- 
+
 •	https://www.amazon.com/gp/product/B0BG2F7349/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
 1x Keyboard, I used an OSU one that shrunk the size of the keyboard to 3 keys, then programmed it for only the keys I needed.  (G key is for acknowledging the new WiFi device, W key is for clearing out the known WiFi device list, and the enter key for passing the command after the previous key is hit)
+
 •	https://www.amazon.com/gp/product/B09Y5NC6LL/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+
 1x – WiFi card for detection that has an external connection for a directional antenna-
+
 •	https://www.amazon.com/gp/product/9800359850/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
 1x Memery card for running the Pi-
+
 •	https://www.amazon.com/SanDisk-2-Pack-microSDHC-Memory-2x32GB/dp/B08J4HJ98L/ref=sr_1_8?keywords=micro%2Bsd%2Bmemory%2Bcard&qid=1681635489&sr=8-8&th=1
 
 
