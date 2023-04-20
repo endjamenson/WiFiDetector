@@ -1,4 +1,4 @@
-# WiFiDetector
+# WiFiDetector (The Double D, Drone Detector!)
 
 
 The case can be printed by any 3d Printer, and the STL file is included.  I would recommend at least a 30 percent infill.  Slide it all together after it is finished and use glue if you fancy. STL file is the “WiFi Detector Model.STL” 
